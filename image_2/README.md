@@ -1,0 +1,2 @@
+# BingWallPaperAutoDownload
+## higher quality image
