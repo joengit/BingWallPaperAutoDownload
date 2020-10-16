@@ -3,7 +3,7 @@ on:
   push:
     branches: [ master ]
   schedule:
-    - cron: "13 14,2 * * *"
+    - cron: "13 14 * * *"
 jobs:
   BingWallPaperAutoDownload:
     runs-on: ubuntu-latest
